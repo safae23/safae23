@@ -48,15 +48,6 @@ Basée entre **France** et **Maroc**, en Master 2 Big Data & IA à l’Universit
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## Professional Experience
-
-### **Data & AI Engineer Intern — Yadag Technologies Inc** *(Juil – Oct 2025, Casablanca)*
-- Développement de **Melissa**, une assistante intelligente multilingue sur WhatsApp.  
-- Conception et automatisation de **dashboards Power BI** pour le suivi de performance.  
-- Intégration de modules IA : reconnaissance vocale, analyse d’images, et **LLMs (GPT-4)**.  
-- Automatisation avec **Twilio, n8n, Whisper, Supabase**.  
-- Réduction de 5–10 h/semaine de tâches répétitives pour les producteurs.  
-
 ## Projects Highlights
 
 - **Assistant de voyage intelligent** — Multi-agents + API + Streamlit  
