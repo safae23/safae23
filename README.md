@@ -31,8 +31,8 @@ Basée entre **France** et **Maroc**, en Master 2 Big Data & IA à l’Universit
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-121D33?style=flat-square&logo=google&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-007ACC?style=flat-square&logo=python&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-121D33?style=flat-square&logo=bert&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-007ACC?style=flat-square&logo=lstm&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
