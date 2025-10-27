@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Safae Chouai  
 
-**Data Scientist & Business Intelligence Engineer**  
+**Data Science et Cloud Computing Engineer**  
 Passionnée par la Data Science, le Cloud Computing et l’Intelligence Artificielle.  
-Basée entre **France** et **Maroc**, en Master 2 Big Data & IA à l’Université Marie et Louis Pasteur.  
+Basée en **France**, en Master 2 Big Data & IA à l’Université Marie et Louis Pasteur.  
 
 ## About Me
 
 - Étudiante en double diplôme Ingénieur – Master 2 Big Data & IA  
 - À la recherche d’un **stage de fin d’études (PFE)** à partir de **février 2026**  
-- Intéressée par la **Data Science**, la **Business Intelligence** et le **Cloud Computing**  
+- Intéressée par la **Data Science**, la **Business Intelligence** , l' **Intelligence Artificielle** et le **Cloud Computing**  
 - Curieuse, rigoureuse et toujours en quête d’innovation  
 - [LinkedIn](https://linkedin.com/in/safae-chouai) | [Email](mailto:chouaisafae3@gmail.com)
 ## Skills and Technologies
@@ -54,8 +54,8 @@ Basée entre **France** et **Maroc**, en Master 2 Big Data & IA à l’Universit
 - **Classification d’avis ChatGPT** — NLP avec BERT, RNN, LSTM, TensorFlow  
 - **Exploration du marché de l’emploi Data Science** — API France Travail + Power BI  
 - **Supervision cloud-native** — Monitoring temps réel via Prometheus, Grafana, Docker  
-- **Analyse des avis clients** — Streamlit + TextBlob + Dashboards interactifs  
-- **Étude produits Jumia** — Web scraping + Power BI pour analyse des tendances  
+- **Analyse des avis clients** — Streamlit + TextBlob  
+- **Étude produits Jumia** — Web scraping + ETL 
 
 
 ## Soft Skills
