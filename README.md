@@ -50,7 +50,7 @@ Basée en **France**, diplômée d’un double cursus Ingénieur – Master 2 Bi
 
 ## Projects Highlights
 
-- **[VoyagePlus](https://github.com/safae23/VoyagePlus)** — Google ADK · A2A · LiteLLM · Streamlit  
+- **VoyagePlus** — Google ADK · A2A · LiteLLM · Streamlit  
 - **Classification d’avis ChatGPT** — NLP avec BERT, RNN, LSTM, TensorFlow  
 - **Exploration du marché de l’emploi Data Science** — API France Travail + Power BI  
 - **Supervision cloud-native** — Monitoring temps réel via Prometheus, Grafana, Docker  
