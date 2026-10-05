@@ -7,7 +7,7 @@ Basée en **France**, diplômée d’un double cursus Ingénieur – Master 2 Bi
 ## About Me
 
 - Ingénieure Data & IA récemment diplômée, avec des expériences chez **CPage** et **Yadag Technologies**  
-- Disponible immédiatement pour un **CDI en Data & IA**, avec une **mobilité nationale**  
+- Disponible immédiatement pour une **Opportunité en Data & IA**, avec une **mobilité nationale**  
 - Intéressée par la **Data Science**, la **Business Intelligence** , l' **Intelligence Artificielle** et le **Cloud Computing**  
 - Curieuse, rigoureuse et toujours en quête d’innovation  
 - [LinkedIn](https://linkedin.com/in/safae-chouai) | [Email](mailto:chouaisafae3@gmail.com)
