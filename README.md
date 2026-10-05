@@ -1,13 +1,13 @@
 # Hi there 👋 I'm Safae Chouai  
 
-**Data Science et Cloud Computing Engineer**  
+**Ingénieure Data & IA | Generative AI · RAG · Systèmes multi-agents**  
 Passionnée par la Data Science, le Cloud Computing et l’Intelligence Artificielle.  
-Basée en **France**, en Master 2 Big Data & IA à l’Université Marie et Louis Pasteur.  
+Basée en **France**, diplômée d’un double cursus Ingénieur – Master 2 Big Data & IA.  
 
 ## About Me
 
-- Étudiante en double diplôme Ingénieur – Master 2 Big Data & IA  
-- À la recherche d’un **stage de fin d’études (PFE)** à partir de **février 2026**  
+- Ingénieure Data & IA récemment diplômée, avec des expériences chez **CPage** et **Yadag Technologies**  
+- Disponible immédiatement pour un **CDI en Data & IA**, avec une **mobilité nationale**  
 - Intéressée par la **Data Science**, la **Business Intelligence** , l' **Intelligence Artificielle** et le **Cloud Computing**  
 - Curieuse, rigoureuse et toujours en quête d’innovation  
 - [LinkedIn](https://linkedin.com/in/safae-chouai) | [Email](mailto:chouaisafae3@gmail.com)
@@ -50,7 +50,7 @@ Basée en **France**, en Master 2 Big Data & IA à l’Université Marie et Loui
 
 ## Projects Highlights
 
-- **Assistant de voyage intelligent** — Multi-agents + API + Streamlit  
+- **[VoyagePlus](https://github.com/safae23/VoyagePlus)** — Google ADK · A2A · LiteLLM · Streamlit  
 - **Classification d’avis ChatGPT** — NLP avec BERT, RNN, LSTM, TensorFlow  
 - **Exploration du marché de l’emploi Data Science** — API France Travail + Power BI  
 - **Supervision cloud-native** — Monitoring temps réel via Prometheus, Grafana, Docker  
@@ -63,11 +63,11 @@ Résolution de problèmes • Esprit analytique • Travail en équipe • Adapt
 
 ## GitHub Statistics
 
-![Safae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safaechouai&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safaechouai&layout=compact&theme=radical)
+![Safae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=safae23&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=safae23&layout=compact&theme=radical)
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/safae-chouai)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:chouaisafae3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/safaechouai)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/safae23)
